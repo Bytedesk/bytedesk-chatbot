@@ -1,9 +1,6 @@
 # bytedesk-chatbot
 https://www.bytedesk.com
 
-
-# Awesome Chatbot Projects
-
 ## Chatbot
 
 ### ParlAI
@@ -78,6 +75,10 @@ A chatbot based on seq2seq architecture done with tensorflow.
 
 https://github.com/inikdom/neural-chatbot
 
+### Chatbot in 200 lines of code using TensorLayer
+
+https://github.com/tensorlayer/seq2seq-chatbot
+
 
 ## Chinese_Chatbot
 
@@ -98,6 +99,11 @@ https://github.com/zake7749/Chatbot
 中文Neural conversational model in Torch
 
 https://github.com/majoressense/chatbot-zh-torch7
+
+
+### 对话机器人（聊天机器人）设计思考
+
+https://github.com/qhduan/ConversationalRobotDesign
 
 
 ## Corpus
